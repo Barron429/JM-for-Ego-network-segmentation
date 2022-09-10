@@ -61,7 +61,7 @@ python Program_Name.py ./data/Data_name/ego_list_1.pkl ./data/Data_name/Output.t
 
 * Example 1:	 
 
-python DP_G_SCUB.py ./data/dblp/ego_list_1.pkl ./data/dblp/Output.txt  ./data/dblp/label_1.txt 5	 \
+python DP_G_SCUB.py ./data/dblp/ego_list_1.pkl ./data/dblp/Output.txt  ./data/dblp/label_1.txt 5	 
 	 
 * Example 2: 	 
 

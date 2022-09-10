@@ -55,7 +55,7 @@ python Program_Name.py ./data/Data_name/ego_list_1.pkl ./data/Data_name/Output.t
 --- ego_list_1.pk1 is the first ego-network sequence. Instead of 1, it could be 2,3,4, or 5 for the other ego-network sequences.	 \
 --- Output.txt corresponds to the output. The output is displayed on the screen and includes runtime of algorithm, segmeatation results, segmeatation performances (ACC, NMI, F score) and the summary graph of each segment. 	 \
 --- label_1.txt is the file containing the ground truth for the first ego-network sequences. Instead of 1, it could be 2,3,4, or 5 for the ground truth of the other ego-network sequences.	 \
---- k is the desired number of segments	 \
+--- k is the desired number of segments	 
 
 #
 
@@ -70,7 +70,7 @@ python DP_EXACT_SC.py
 
 ## How to run JM algorithms
 
-First, please go to JM folder.
+First, please go to SC folder.
 
 The implemented algorithms are:
 

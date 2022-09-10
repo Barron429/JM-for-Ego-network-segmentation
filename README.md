@@ -24,15 +24,14 @@ We used python (3.8.3) and  Gurobi (9.5.1) to implement our algorithms. Our impl
 - munkres
 - scikit-learn
 
-## The datasets are publicly available at:
+## The dataset is publicly available at:
 
 https://projects.csail.mit.edu/dnd/DBLP/ 
 
 ## Data information
 
 For DBLP, we created 5 sequences (ego_list_1.pkl...ego_list_5.pkl). \
-Each sequence has a ground truth (label_1.txt...label_5.txt) \
-We also include the raw data (temporal graphs) from which we constructed the ego-network sequences.
+Each sequence has a ground truth (label_1.txt...label_5.txt) 
 
 ## How to run segmeatation algorithms
 

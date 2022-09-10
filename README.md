@@ -33,7 +33,7 @@ https://projects.csail.mit.edu/dnd/DBLP/
 For DBLP, we created 5 sequences (ego_list_1.pkl...ego_list_5.pkl). \
 Each sequence has a ground truth (label_1.txt...label_5.txt) 
 
-## How to run segmeatation algorithms
+## How to run the segmeatation algorithms
 
 The implemented algorithms are: 
 
